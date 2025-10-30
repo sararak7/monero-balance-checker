@@ -1,4 +1,7 @@
 # monero-balance-checker
+First line<br> Tool designed to check monero balance / has rate
+Second line Tool designed to check monero balance / has rate
+
 Tool designed to check monero balance / has rate
 Output:
 Currently selected account: [0] Primary account
